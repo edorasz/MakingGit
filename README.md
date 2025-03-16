@@ -12,7 +12,8 @@ Berikut adalah langkah-langkah yang dilakukan dalam repository ini:
 
 Saya membuat repository bernama MakingGit di GitHub dengan perintah berikut:
 
-# Inisialisasi repository baru di lokal
+Inisialisasi repository baru di lokal
+
 mkdir MakingGit
 cd MakingGit
 git init
